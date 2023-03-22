@@ -29,7 +29,7 @@ library(Hmisc)
 
 #---------- Import Dataset  ----------
 
-setwd("C:/Users/USER/OneDrive/Desktop/KNUST PostGrad/BDA 517 - DATA SCIENCE FOR BUSINESS/Project")
+setwd("C:/Users/USER/OneDrive/Desktop/Data")
 
 
 #----------  Read & Assign Dataset ----------
